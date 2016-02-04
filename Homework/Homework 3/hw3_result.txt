@@ -1,0 +1,23 @@
+Question 1:
+gcd(8765, 23485) = 5
+
+Question 2:
+gcd(65537, 3511) = 1
+part a: value for [x, y]: [-1405, 26226]
+part b: value for [x, y]: [-23885, 445842]
+
+Question 3:
+Print the last five digit is the same as taking mod 100000
+Number of 100000's coprimes: 40000
+Last five digit: 40587
+
+Question 4:
+gcd(314, 11111) = 1
+Value of x (mod11111): 10298
+
+Question 6:
+x, y value for 201 and 101 : -1 , 2 such that ax + by = 1
+x, y value for 20301 and 301 : -146 , 9847 such that ax + by = 1
+value that satisfies the three conditions: 592789419
+new modulus value: 6110601
+new remainder: 61122
