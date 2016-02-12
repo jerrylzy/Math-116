@@ -1,0 +1,24 @@
+Question 2:
+Odd number m and power k: 58584121864443279685 5
+Factors: 740876531 969862097 
+
+Question 6:
+Factors: 54378659 9876469 
+
+Question 8:
+Part a:
+Factors: 12347 54323 
+
+Part b:
+Factors: 670726081 1
+This one doesn't help,
+since a + b = n and a - b is coprime to n.
+Therefore it reveals nothing about the factorization.
+
+Question 14:
+Using Generalized Chinese Remainder Theorem
+y1, z1: 216851051457 , 493842074127513750694557613
+y2, z2: 2933660999772 , 109743786018234293085678823
+y3, z3: 28806927150227 , 27437049443922098827902019
+Result of adding all ci * yi * zi 's mod n1 * n2 * n3: 521895811536685104609613375
+Decrypted message: 805121215
